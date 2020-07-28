@@ -3,6 +3,8 @@ Calculator.js: a node.js Demonstration Project
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
+[![Build Status](https://dev.azure.com/harpreet2586/harpreet2586/_apis/build/status/harpreet2586.calculator?branchName=master)](https://dev.azure.com/harpreet2586/harpreet2586/_build/latest?definitionId=3&branchName=master)
+
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
 and chai.  The `mocha-junit-reporters` package is included to provide XML
